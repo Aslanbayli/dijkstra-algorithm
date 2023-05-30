@@ -29,4 +29,4 @@ To be able to test the code in case you may want to make changes or imporvements
 After you run that. you will see something similar to this in
 your terminal
 
-![Test Output](./assets/test-output.png)
+<img width="445" alt="test-output" src="https://github.com/Aslanbayli/dijkstra-algorithm/assets/48028559/050780c0-9b40-4857-ae21-e8c1be829d35">
